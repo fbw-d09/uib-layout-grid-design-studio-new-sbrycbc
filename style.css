@@ -11,7 +11,7 @@ body {
     height: 100vh;  */
 }
 
-header {
+nav {
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: repeat(8,1fr);
